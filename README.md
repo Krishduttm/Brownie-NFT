@@ -8,4 +8,4 @@ B)Advanced collectible - In this implementation , i used three pictures of dogs 
 
 I have also typed unit and integration tests for both the sections to make sure they worked fine
 
-In this prohect i learnt about how nft's work, erc721, open sea, ipfs , increased my experience in writing tests , working with smart contracts and brownie.
+In this project i learnt about how nft's work, erc721, open sea, ipfs , increased my experience in writing tests , working with smart contracts and brownie.
